@@ -1,0 +1,17 @@
+Talicoo:
+  config:
+    tag: '[(Talicoo)]'
+    healthbonus: '+2'
+    armor: leather,gold,chain,elytra
+    manabonus: '+100'
+    guislot: '-1'
+  traits: 
+    DodgeTrait:
+   chance: '20'
+    JumpHeightIncreaseTrait:
+   value: '1'
+    HealOthersTrait:
+  value: '3.5'
+  LifeTapTrait:
+  cost: '2.1'
+  value: '6.1'
